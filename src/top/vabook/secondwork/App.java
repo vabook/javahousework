@@ -1,4 +1,4 @@
-package top.vabook.secondwork.dao;
+package top.vabook.secondwork;
 
 import java.util.Scanner;
 

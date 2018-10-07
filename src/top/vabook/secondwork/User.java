@@ -1,4 +1,4 @@
-package top.vabook.secondwork.dao;
+package top.vabook.secondwork;
 /**
  * @author vabook@163.com
  * @version 2018年9月30日 下午2:43:20

@@ -1,4 +1,4 @@
-package top.vabook.secondwork.dao;
+package top.vabook.secondwork;
 /**
  * @author vabook@163.com
  * @version 2018年9月30日 下午2:54:32
@@ -8,7 +8,8 @@ package top.vabook.secondwork.dao;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-import top.vabook.secondwork.dao.User;
+
+import top.vabook.secondwork.User;
 
 public class Curd {
 	public static Connection connection;
